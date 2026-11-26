@@ -13,12 +13,14 @@ Procedure
 7.	Click on the Run option → open the Simulation Window → place the probe to obtain the output graph. 
 Circuit Diagram
 
+<img width="797" height="361" alt="ED exp 7 circuit digram" src="https://github.com/user-attachments/assets/7b72a197-1adc-481d-85d4-522a75e0c22d" />
 
 
 
 
 The circuit is designed in LTspice as shown in the record.
 Observation / Output
+<img width="1912" height="380" alt="ED exp 7 g" src="https://github.com/user-attachments/assets/788027ca-925e-463b-9582-6afb57b08e9f" />
 
 
 
